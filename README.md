@@ -1,5 +1,5 @@
 <div align="center">
-Code Stew - Stewart Grant
+# Code Stew - Stewart Grant
 
 ## Currently working:
 
