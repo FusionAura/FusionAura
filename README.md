@@ -1,5 +1,5 @@
-# Code Stew - Stewart Grant
-----
+# <p style="text-align:center;">Code Stew - Stewart Grant</p>
+
 ## Currently working:
 
 ![Slipgate Crisis Logo](https://img.itch.zone/aW1nLzE3MzU2ODE5LnBuZw==/315x250%23c/duJ31L.png) 
