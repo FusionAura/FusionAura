@@ -19,7 +19,7 @@
 ### Operating Systems:
 [![My current skillset:](https://skillicons.dev/icons?i=windows,apple)](https://skillicons.dev)
 
-### Misc:
+### Frameworks & Tools:
 [![My current skillset:](https://skillicons.dev/icons?i=dotnet,github)](https://skillicons.dev)
 
 <!--
