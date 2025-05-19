@@ -1,4 +1,5 @@
-# <p style="text-align:center;">Code Stew - Stewart Grant</p>
+<div align="center">
+Code Stew - Stewart Grant
 
 ## Currently working:
 
