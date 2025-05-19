@@ -1,7 +1,7 @@
 ## Code Stew - Stewart Grant
 
 Currently working on Personal Project:
-![Slipgate Crisis Logo]([https://img.itch.zone/aW1nLzE3MzU0NjIxLnBuZw==/original/Y1ig8V.png](https://img.itch.zone/aW1nLzE3MzU2ODE5LnBuZw==/315x250%23c/duJ31L.png)) 
+![Slipgate Crisis Logo](https://img.itch.zone/aW1nLzE3MzU2ODE5LnBuZw==/315x250%23c/duJ31L.png) 
 
 [![My current skillset:](https://skillicons.dev/icons?i=unity,cs,unreal,cpp,dotnet,gamemakerstudio,godot,github,py,rider,vscode,visualstudio,sublime,windows,apple)](https://skillicons.dev)
 
