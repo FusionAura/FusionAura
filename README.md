@@ -5,7 +5,20 @@
 ![Slipgate Crisis Logo](https://img.itch.zone/aW1nLzE3MzU2ODE5LnBuZw==/315x250%23c/duJ31L.png) 
 
 ## My Skillset:
-[![My current skillset:](https://skillicons.dev/icons?i=unity,cs,unreal,cpp,dotnet,gamemakerstudio,godot,github,py,rider,vscode,visualstudio,sublime,windows,apple)](https://skillicons.dev)
+### Languages:
+[![My current skillset:](https://skillicons.dev/icons?i=cs,cpp,py)](https://skillicons.dev)
+
+### Game Engines:
+[![My current skillset:](https://skillicons.dev/icons?i=unity,unreal,gamemakerstudio,godot)](https://skillicons.dev)
+
+### IDE:
+[![My current skillset:](https://skillicons.dev/icons?i=rider,vscode,visualstudio,sublime)](https://skillicons.dev)
+
+### Operating Systems:
+[![My current skillset:](https://skillicons.dev/icons?i=windows,apple)](https://skillicons.dev)
+
+### Misc:
+[![My current skillset:](https://skillicons.dev/icons?i=dotnet,github)](https://skillicons.dev)
 
 <!--
 **FusionAura/FusionAura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
