@@ -7,11 +7,10 @@
 ![Slipgate Crisis Logo](https://img.itch.zone/aW1nLzE3MzU2ODE5LnBuZw==/315x250%23c/duJ31L.png) 
 
 ## My Skillset:
-### Languages:
-[![My current skillset:](https://skillicons.dev/icons?i=cs,cpp,py)](https://skillicons.dev)
+<div align="left"> ### Languages: <div align="right"> ### Game Engines:
+<div align="left">  [![My current skillset:](https://skillicons.dev/icons?i=cs,cpp,py)](https://skillicons.dev) [![My current skillset:]  <div align="right">(https://skillicons.dev/icons?i=unity,unreal,gamemakerstudio,godot)](https://skillicons.dev)
 
-### Game Engines:
-[![My current skillset:](https://skillicons.dev/icons?i=unity,unreal,gamemakerstudio,godot)](https://skillicons.dev)
+
 
 ### IDE:
 [![My current skillset:](https://skillicons.dev/icons?i=rider,vscode,visualstudio,sublime)](https://skillicons.dev)
