@@ -6,6 +6,8 @@
 
 ![Slipgate Crisis Logo](https://img.itch.zone/aW1nLzE3MzU2ODE5LnBuZw==/315x250%23c/duJ31L.png) 
 
+<div align="left">
+  
 ## My Skillset:
 ### Languages:
 [![My current skillset:](https://skillicons.dev/icons?i=cs,cpp,py)](https://skillicons.dev)
