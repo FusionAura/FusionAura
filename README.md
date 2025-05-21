@@ -1,7 +1,6 @@
 # Code Stew - Stewart Grant
 
-## Currently working:
-
+## Current Projects:
 [![Slipgate Crisis Logo](https://img.itch.zone/aW1nLzE3MzU2ODE5LnBuZw==/315x250%23c/duJ31L.png)](https://codestew.itch.io/slipgate-crisis) 
   
 ## My Skillset:
