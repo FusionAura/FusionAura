@@ -14,7 +14,7 @@
 [![My current skillset:](https://skillicons.dev/icons?i=unity,unreal,gamemakerstudio,godot)](https://skillicons.dev)
 
 ### Misc:
-[![My current skillset:](https://skillicons.dev/icons?i=windows,apple,dotnet,github, rider,vscode,visualstudio,sublime)](https://skillicons.dev)
+[![Misc skillset:](https://skillicons.dev/icons?i=windows,apple,dotnet,github,rider,vscode,visualstudio,sublime)](https://skillicons.dev)
 
 <!--
 **FusionAura/FusionAura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
